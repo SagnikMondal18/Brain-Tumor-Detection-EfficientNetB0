@@ -201,7 +201,7 @@ This helps users understand which regions of the image received stronger attenti
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Brain-Tumor-Detection-EfficientNetB0.git
+git clone https://github.com/SagnikMondal18/Brain-Tumor-Detection-EfficientNetB0.git
 ```
 
 Move into the project directory:
