@@ -152,7 +152,6 @@ Brain_Tumor_Detection/
 - **PyTorch**
 - **Torchvision**
 - **EfficientNet-B0**
-- **OpenCV**
 - **NumPy**
 - **Pillow**
 - **Matplotlib**
