@@ -21,7 +21,6 @@ The trained model uses **EfficientNet-B0** as the backbone and provides predicti
 
 ## 🏗️ Project Architecture
 
-
 The complete pipeline consists of the following phases:
 
 ### Phase 1 — Data Acquisition & Preprocessing
@@ -172,19 +171,6 @@ The model can be evaluated using the following metrics:
 - Confusion Matrix
 - Classification Report
 - ROC-AUC
-
-Example classification report:
-
-```text
-              Precision    Recall    F1-Score
-
-Glioma
-Meningioma
-No Tumor
-Pituitary
-```
-
-> Add the final numerical results here after completing the final evaluation of the trained model.
 
 ---
 
