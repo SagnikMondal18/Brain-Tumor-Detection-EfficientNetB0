@@ -321,8 +321,6 @@ The notebook contains the implementation of the project pipeline from preprocess
 
 ## 📁 Dataset
 
-The original MRI dataset is **not included in this repository** because of its large size and dataset/license considerations.
-
 Dataset Link : 👉 **[Brain Tumor MRI Dataset – Kaggle](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/versions/1)**
 
 The dataset contains MRI images belonging to four categories:
@@ -368,23 +366,6 @@ Streamlit Deployment
 
 ---
 
-## ⚠️ Disclaimer
-
-This project is developed for **educational and research purposes only**.
-
-The model is not intended to replace professional medical diagnosis, radiological examination, or clinical decision-making.
-
-Predictions produced by this system should not be treated as a medical diagnosis.
-
----
-
-## 👨‍💻 Author
-
-**Sagnik Mondal**
-
-Brain Tumor Detection using Deep Learning and Explainable AI.
-
----
 
 ## ⭐ Future Improvements
 
