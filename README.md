@@ -323,6 +323,8 @@ The notebook contains the implementation of the project pipeline from preprocess
 
 The original MRI dataset is **not included in this repository** because of its large size and dataset/license considerations.
 
+Dataset Link : 👉 **[Brain Tumor MRI Dataset – Kaggle](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/versions/1)**
+
 The dataset contains MRI images belonging to four categories:
 
 ```text
