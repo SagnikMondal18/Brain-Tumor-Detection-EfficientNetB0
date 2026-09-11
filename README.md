@@ -23,7 +23,7 @@ The trained model uses **EfficientNet-B0** as the backbone and provides predicti
 
 The complete pipeline consists of the following phases:
 
-![Brain Tumor Detection Project Architecture](architecture.png)
+![Brain Tumor Detection Project Architecture]
 
 ### Phase 1 — Data Acquisition & Preprocessing
 
